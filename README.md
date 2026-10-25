@@ -4,12 +4,13 @@ Portfolio work from my CS 320 course at Southern New Hampshire University. This 
 
 ## Contents
 
-| Folder / File | Description |
+| File | Description |
 |---|---|
-| `ContactService/` | Contact.java, ContactService.java, and their JUnit tests |
-| `TaskService/` | Task.java, TaskService.java, and their JUnit tests |
-| `AppointmentService/` | Appointment.java, AppointmentService.java, and their JUnit tests |
-| `Project Two Summary and Reflections Report.docx` | My report on my testing approach, techniques, and mindset |
+| `Contact.java` | Contact object that enforces the field requirements |
+| `ContactService.java` | Service that adds, deletes, and updates contacts by ID |
+| `ContactTest.java` | JUnit 5 tests for the Contact class |
+| `ContactServiceTest.java` | JUnit 5 tests for the ContactService class |
+| `Champagne_CS320_Project_Two.docx` | Summary and reflections report on my testing approach |
 
 **Testing results:** 84 unit tests with 100% code coverage of all six application classes.
 
